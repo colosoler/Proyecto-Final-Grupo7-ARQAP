@@ -6,7 +6,8 @@ Este proyecto final fue desarrollado en el marco de la materia **Diseño de Sist
 
 ## Integrantes
 
-- **Tomas Soler**  
+- **Tomas Soler**
+- **Franco Arce**
 - **Justina Smith**  
 - **Agostina Pascucci**  
 - **Bernardita La Gioiosa**  
