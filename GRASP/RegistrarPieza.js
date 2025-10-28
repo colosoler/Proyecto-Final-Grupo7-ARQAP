@@ -75,5 +75,4 @@ PiezaArqueologica :: crear (
 Ubicacion :: ocupar(){
     self.setDisponible(false)
     
-    // UbicacionBD.persistir(self)
 }
