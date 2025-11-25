@@ -17,11 +17,10 @@ PiezaArqueologicaController::altaPiezaArq(
     clasInterna: ClasificacionInterna = null
 ) {
 
+    ubi.ocupar();
 
     PiezaArqueologicaBD.persistir(PiezaArqueologica.crear(clasificador,nombre,material[1..*],coleccion,arqueologo,sitioArq,ubi,desc,foto[1..*],obs,docs[0..*],fichaHist,fichaAdj,clasInterna));
 
-
-    ubi.ocupar();
 }
 
 
